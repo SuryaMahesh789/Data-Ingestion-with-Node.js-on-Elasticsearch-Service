@@ -1,0 +1,16 @@
+{
+  "name": "node-red-to-elk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surya",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.17.11-patch.1",
+    "config": "^3.3.9",
+    "elasticsearch": "^16.7.3"
+  }
+}
